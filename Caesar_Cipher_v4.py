@@ -1,3 +1,6 @@
+# Changed 'encrypt_decrypt_message' function
+# 12/232024
+
 def get_user_command():
     max_try = 3
     for attempt in range(max_try):
